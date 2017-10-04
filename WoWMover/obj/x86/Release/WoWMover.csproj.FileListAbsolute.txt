@@ -1,0 +1,36 @@
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Release\WoWMover.Form1.resources
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Release\WoWMover.Properties.Resources.resources
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Release\WoWMover.exe
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Release\WoWMover.pdb
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Release\WoWMover.exe
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Release\WoWMover.pdb
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Release\BlackMagic.dll
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Release\fasmdll_managed.dll
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Release\BlackMagic.pdb
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Release\BlackMagic.xml
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Release\fasmdll_managed.pdb
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Release\WoWMover.Properties.Resources.resources
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Release\WoWMover.exe
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Release\WoWMover.pdb
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Release\WoWMover.exe.config
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Release\WoWMover.exe
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Release\WoWMover.pdb
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\bin\Release\WoWMover.exe.config
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Release\WoWMover.exe
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Release\WoWMover.pdb
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\bin\Release\WoWMover.exe
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\bin\Release\WoWMover.pdb
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Release\WoWMover.Properties.Resources.resources
+C:\Users\Ano\Documents\Projects\WoWMover\WoWMover\bin\Release\WoWMover.exe.config
+C:\Users\Ano\Documents\Projects\WoWMover\WoWMover\obj\x86\Release\WoWMover.exe
+C:\Users\Ano\Documents\Projects\WoWMover\WoWMover\obj\x86\Release\WoWMover.pdb
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Release\WoWMover.csprojResolveAssemblyReference.cache
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Release\WoWMover.csproj.GenerateResource.Cache

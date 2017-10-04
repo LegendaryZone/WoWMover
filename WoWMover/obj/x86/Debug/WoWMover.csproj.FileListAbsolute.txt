@@ -1,0 +1,42 @@
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Debug\WoWMover.exe
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Debug\WoWMover.pdb
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Debug\WoWMover.Form1.resources
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Debug\WoWMover.Properties.Resources.resources
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Debug\WoWMover.exe
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\obj\x86\Debug\WoWMover.pdb
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Debug\BlackMagic.dll
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Debug\fasmdll_managed.dll
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Debug\BlackMagic.pdb
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Debug\BlackMagic.xml
+C:\Users\Ano\AppData\Local\Temporary Projects\WoWMover\bin\Debug\fasmdll_managed.pdb
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Debug\WoWMover.exe
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Debug\WoWMover.pdb
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Debug\WoWMover.exe.config
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Debug\WoWMover.exe
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Debug\WoWMover.pdb
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Debug\BlackMagic.dll
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Debug\fasmdll_managed.dll
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Debug\BlackMagic.pdb
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Debug\BlackMagic.xml
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\bin\Debug\fasmdll_managed.pdb
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Debug\WoWMover.Form1.resources
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Debug\WoWMover.Properties.Resources.resources
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ano\Desktop\Tools\WoW\Bots\Rogue Emerald\WoWMover\WoWMover\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\bin\Debug\WoWMover.exe.config
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\bin\Debug\WoWMover.exe
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\bin\Debug\WoWMover.pdb
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Debug\WoWMover.Properties.Resources.resources
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Debug\WoWMover.exe
+C:\Users\Ano\Documents\Visual Studio 2010\Projects\WoWMover\WoWMover\obj\x86\Debug\WoWMover.pdb
